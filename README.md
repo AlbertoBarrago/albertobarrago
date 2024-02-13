@@ -19,10 +19,10 @@ Passionate software engineer with a relentless drive for learning and innovation
 - Mentor and inspire the next generation of software engineers
 
 ## 🚀 Skills & Expertise
-- Languages: Python, JavaScript, Java
-- Frameworks: React, Django, Node.js
-- Databases: MySQL, MongoDB, PostgreSQL
-- Tools & Technologies: Git, Docker, AWS, Kubernetes
+- Languages: PHP, JavaScript, Java, Python, GO, C++, Pascal
+- Frameworks: React, Angular, Node.js, Next, Vue, Svelte
+- Databases: MySQL, MongoDB, tRPC, GraphQL
+- Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
