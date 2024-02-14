@@ -6,10 +6,9 @@
 Passionate software engineer with a relentless drive for learning and innovation. I thrive in collaborative environments where I can contribute my skills and knowledge while continuously expanding my expertise.
 
 ## 🔭 I’m currently working on
-- Exciting projects that challenge my problem-solving abilities
 - INPS library for Angular
 - Geashakti site for my ❤️ 
-- Deep study about Go and Htmx 
+- Deep study about Go and Htmx
 
 ## 🌱 I’m currently learning
 - Advanced algorithms and data structures
