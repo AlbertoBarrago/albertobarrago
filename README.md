@@ -7,8 +7,7 @@ Passionate software engineer with a relentless drive for learning and innovation
 
 ## 🔭 I’m currently working on
 - INPS library for Angular
-- Geashakti site for my ❤️ 
-- Deep study about Go and Htmx
+- Side projects with React and Next.js
 
 ## 🌱 I’m currently learning
 - Advanced algorithms and data structures
@@ -21,15 +20,15 @@ Passionate software engineer with a relentless drive for learning and innovation
 - Mentor and inspire the next generation of software engineers
 
 ## 🚀 Skills & Expertise
-- Languages: PHP, JavaScript, Java, Python, GO, C++, Pascal
+- Languages: C++, Pascal, PHP, JavaScript, Java, Python, GO 
 - Frameworks: React, Angular, Node.js, Next, Vue, Svelte
 - Databases: MySQL, MongoDB, tRPC, GraphQL
-- Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure
+- Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure, Redis
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/albertobarrago)
-- [Twitter](https://twitter.com/albertobarrago)
+- [Twitter](https://twitter.com/albz_dev)
 - [GitHub](https://github.com/albertobarrago)
 
 ## ⚡ Fun Fact
