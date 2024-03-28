@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Alberto Barrago
 *😈 Mad developer* | *👨‍💻 Software Engineer* | *🚀 Tech Enthusiast* | *🎮 Gamer* | *📚 Lifelong Learner*
 
-[![alBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobarrago&show_icons=true&theme=radical)](https://github.com/albertobarrago/github-readme-stats)
+[![alBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobarrago&show_icons=true&theme=dark)](https://github.com/albertobarrago/github-readme-stats)
 
 ## About Me
 Passionate software engineer with a relentless drive for learning and innovation. I thrive in collaborative environments where I can contribute my skills and knowledge while continuously expanding my expertise.
