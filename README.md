@@ -9,6 +9,7 @@ Passionate software engineer with a relentless drive for learning and innovation
 - Side projects with React and Next.js
 
 ## 🌱 I’m currently learning
+- Take time for myself 
 - Advanced algorithms and data structures
 - Machine learning and artificial intelligence
 - Cloud computing technologies
@@ -20,9 +21,9 @@ Passionate software engineer with a relentless drive for learning and innovation
 
 ## 🚀 Skills & Expertise
 - Languages: C++, Pascal, PHP, JavaScript, Java, Python, GO 
-- Frameworks: React, Angular, Node.js, Next, Vue, Svelte
+- Frameworks: React, Angular, Node.js, Spring, Flask
 - Databases: MySQL, MongoDB, tRPC, GraphQL
-- Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure, Redis
+- Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
