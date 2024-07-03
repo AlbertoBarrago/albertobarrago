@@ -28,7 +28,6 @@ Passionate software engineer with a relentless drive for learning and innovation
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/albertobarrago)
-- [Twitter](https://twitter.com/albz_dev)
 - [GitHub](https://github.com/albertobarrago)
 
 ## ⚡ Fun Fact
