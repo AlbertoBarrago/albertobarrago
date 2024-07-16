@@ -6,21 +6,19 @@ Passionate software engineer with a relentless drive for learning and innovation
 
 ## 🔭 I’m currently working on
 - INPS library for Angular
-- Side projects with React and Next.js
+- Smart contract with Etherum
 
 ## 🌱 I’m currently learning
-- Take time for myself 
-- Advanced algorithms and data structures
-- Machine learning and artificial intelligence
+- Take time for myself
+- Etherum
 - Cloud computing technologies
 
 ## 💡 Goals for the Future
 - Contribute to open-source projects that make a positive impact
 - Continuously expand my knowledge and expertise in software development
-- Mentor and inspire the next generation of software engineers
 
 ## 🚀 Skills & Expertise
-- Languages: C++, Pascal, PHP, JavaScript, Java, Python, GO 
+- Languages:  Pascal, C++, PHP, JavaScript, Java, Python, GO 
 - Frameworks: React, Angular, Node.js, Spring, Flask
 - Databases: MySQL, MongoDB, tRPC, GraphQL
 - Tools & Technologies: Git, Docker, AWS, Kubernetes, Azure
