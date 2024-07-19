@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Alberto Barrago
-*😈 Mad developer* | *👨‍💻 Software Engineer* | *🚀 Tech Enthusiast* | *🎮 Gamer* | *📚 Lifelong Learner*
+*😈 Mad developer* | *🚀 Tech Enthusiast* | *🎮 Gamer* | *📚 Lifelong Learner*
 
 ## About Me
-Passionate software engineer with a relentless drive for learning and innovation. I thrive in collaborative environments where I can contribute my skills and knowledge while continuously expanding my expertise.
+Passionate full-stack developer with a relentless drive for learning and innovation.
+I thrive in collaborative environments where I can contribute my skills and knowledge while continuously expanding my expertise.
 
 ## 🔭 I’m currently working on
 - INPS library for Angular
