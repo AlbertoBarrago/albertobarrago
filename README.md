@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Alberto Barrago
+# Hi there! 👋 I'm alBz
 *😈 Mad developer* | *🚀 Tech Enthusiast* | *🎮 Gamer* | *📚 Lifelong Learner*
 
 ## About Me
-Passionate full-stack developer with a relentless drive for learning and innovation.
+Passionate full-stack developer with a relentless drive for learning and innovation. <br/>
 I thrive in collaborative environments where I can contribute my skills and knowledge while continuously expanding my expertise.
 
 ## 🔭 I’m currently working on
