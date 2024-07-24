@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm alBz
-*😈 Mad developer* | *🚀 Tech Enthusiast* | *🎮 Gamer* | *📚 Lifelong Learner*
+👨‍💻 Senior Full-Stack Developer | 🚀 DevOps | 📦 Release Manager
 
 ## About Me
 Passionate full-stack developer with a relentless drive for learning and innovation. <br/>
