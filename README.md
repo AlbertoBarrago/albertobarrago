@@ -30,5 +30,5 @@ Feel free to reach out if you want to collaborate on projects, share knowledge, 
 - [GitHub](https://github.com/albertobarrago)
 
 ## ⚡ Fun Fact
-Gamer at heart, I love playing video games in my free time. I also enjoy reading and learning about new technologies and programming languages.
+Gamer at heart, I love playing video games in my free time.
 Great passionate about the psychology of the human being and the universe. Myth and legend lover.
