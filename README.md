@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm alBz
+# Hey you! I'm alBz
 👨‍💻 Software Developer | DevOps | Release Manager 
 
 ## 🚀 Skills & Expertise
