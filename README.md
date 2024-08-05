@@ -2,10 +2,10 @@
 👨‍💻 Software Developer | DevOps | Release Manager 
 
 ## 🚀 Skills & Expertise
-- **Languages**:  no matters... 
-- **Frameworks**: a lot! 
+- **Languages**:  No matters... 
+- **Frameworks**: a lot :D 
 - **Databases**: I 🧙‍♂️ it.
-- **Tools & Technologies**: All Pokemons
+- **Animal Lovers**: Hell Yeah!
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
