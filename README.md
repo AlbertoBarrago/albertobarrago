@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm alBz
-👨‍💻 Senior Full-Stack Developer | 🚀 DevOps | 📦 Release Manager
+👨‍💻 Software Developer | DevOps | Release Manager 
 
 ## 🚀 Skills & Expertise
 - **Languages**:  Pascal, C++, PHP, JavaScript, Java, Python, GO 
