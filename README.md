@@ -1,16 +1,18 @@
-# Hey you! I'm alBz
-👨‍💻 Software Developer | DevOps | Release Manager 
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=albertobarrago&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=albertobarrago&hide=html,scss,css&langs_count=8&layout=compact&theme=matrix&card_width=150" />
+</a>
 
-## 🚀 Skills & Expertise
-- **Languages**:  No matters... 
-- **Frameworks**: a lot :D 
-- **Databases**: I 🧙‍♂️ it.
-- **Animal Lovers**: Hell Yeah!
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=albertobarrago&theme=matrix"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=albertobarrago&theme=matrix&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-## 📫 Let's Connect!
-Feel free to reach out if you want to collaborate on projects, share knowledge, or just chat about all things tech! You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/albertobarrago)
 
-## ⚡ Fun Fact
-Gamer at heart, I love playing video games in my free time.
-Great passionate about the psychology of the human being and the universe. Myth and legend lover.
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
