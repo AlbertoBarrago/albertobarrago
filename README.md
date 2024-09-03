@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+     <td colspan="2" align="center">
       <img height="200" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=albertobarrago&theme=merko" alt="GitHub Streak Stats" />
     </td>
   </tr>
