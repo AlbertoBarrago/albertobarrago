@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://github.com/albertobarrago">
-        <img height="180" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=albertobarrago&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Top Languages for alBz" />
+        <img height="170" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=albertobarrago&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Top Languages for alBz" />
       </a>
     </td>
   </tr>
