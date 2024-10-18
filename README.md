@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://github.com/albertobarrago">
-        <img height="200" src="https://my-stats-43gk.vercel.app/api?username=albertobarrago&show_icons=true&theme=merko&hide=contribs,issues&rank_icon=github&include_all_commits=true&card_width=400" alt="GitHub alBz" />
+        <img height="200" src="https://my-stats-43gk.vercel.app/api?username=albertobarrago&show_icons=true&theme=merko&hide=contribs,issues&rank_icon=github&include_all_commits=true&card_width=300" alt="GitHub alBz" />
       </a>
     </td>
     <!--
