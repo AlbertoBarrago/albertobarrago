@@ -1,4 +1,4 @@
-# Full Stack Development Portfolio
+#  🥷🏻 alBz
 
 ## About Me
 Senior Full Stack Developer specializing in Python/FastAPI backend and React frontend development, focused on building secure and scalable applications.
