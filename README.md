@@ -1,6 +1,3 @@
-Sure! Here's the content in proper markdown format:
-
-```markdown
 # 🥷🏻 alBz
 
 ## About Me  
@@ -41,4 +38,4 @@ Senior Full Stack Developer with 10+ years of experience, specializing in **Pyth
 | **Problem Solver** | Skilled at breaking down complex systems         |
 | **Team Player**    | Collaborates effectively across diverse teams    |
 | **Security-Oriented** | Designs with authentication and best practices in mind |
-```
+
