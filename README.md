@@ -9,13 +9,13 @@ Senior Full Stack Developer with 10+ years of experience, specializing in **Pyth
 
 | Area                     | Backend (BE)                               | Frontend (FE)                               |
 |--------------------------|--------------------------------------------|---------------------------------------------|
-| **Languages & Frameworks** | Python (FastAPI, Flask), SQLAlchemy, Js   | React.js, Angular,   |
+| **Languages & Frameworks** | Python (FastAPI, Flask), SQLAlchemy, Js   | React.js, Angular, T3                         |
 | **Database**             | MySQL, RDBMS Design, Optimization          | —                                           |
 | **Security**             | OAuth2, JWT, Rate Limiting, Audit Logs     | Token Management, Protected Routes, Guard   |
-| **API & Microservices**  | RESTful APIs, Microservices Architecture   | -                                           |
+| **API & Microservices**  | RESTful APIs, Microservices Architecture   | Server Action, express, RouterDOM           |
 | **Testing & QA**         | Unit & Integration Testing                 | Jasmine, Karma                              |
 | **State Management**     | —                                          | Redux, Context API                          |
-| **Styling & UI**         | —                                          | Tailwind CSS, Material-UI                   |
+| **Styling & UI**         | —                                          | Tailwind CSS, Material-UI, Bootstrap, Ant   |
 | **Responsive & UX**      | —                                          | Responsive Design                           |
 
 ---
