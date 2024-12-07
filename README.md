@@ -16,7 +16,6 @@ Senior Full Stack Developer with over 10 years of experience, specializing in **
 | **Testing & QA**         | Unit & Integration Testing, ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white) | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white), ![Karma](https://img.shields.io/badge/-Karma-28A745?logo=karma&logoColor=white) |
 | **State Management**     | —                                                                                               | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white), Context API                                   |
 | **Styling & UI**         | —                                                                                               | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white), ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white), ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white) |
-| **Responsive & UX**      | —                                                                                               | Responsive Design                                       |
 
 ---
 
