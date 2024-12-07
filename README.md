@@ -7,7 +7,7 @@ Senior Full Stack Developer with over 10 years of experience, specializing in **
 
 ## 🛠️ Technical Expertise
 
-| Area                     | Backend (BE)                                                                                     | Frontend (FE)                                          |
+| Area                     | Backend                                                                                     | Frontend                                          |
 |--------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | **Languages & Frameworks** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?logo=alchemy&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) |
 | **Database**             | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), RDBMS Design & Optimization  | —                                                      |
