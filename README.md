@@ -4,13 +4,7 @@
 https://codeberg.org/alBz
 
 ## About Me
-Senior Full Stack Developer with over 10 years of experience, specialising in Python/FastAPI backend and React frontend development. Passionate about crafting secure, scalable, and efficient web applications. 🚀
-
-Skilled in building RESTful APIs, integrating third-party services, and developing interactive, user-friendly interfaces. Experienced in Agile methodologies, team collaboration, and CI/CD pipelines.
-
-Enthusiastic about exploring new technologies and best practices to deliver high-quality solutions.
-
-Lifelong learner with an interest in programming, psychology, and poetry. Committed to improving every day with new knowledge and experiences. 🌟
+Passionate Full-Stack Developer with 10+ years of experience in designing and delivering scalable web applications. Expertise in JavaScript, Node.js, Python, and cloud technologies (Azure, AWS). Proven track record in leading cross-functional teams, optimizing CI/CD pipelines, and mentoring junior developers. Passionate about lean solutions and continuous learning.
 
 ---
 
