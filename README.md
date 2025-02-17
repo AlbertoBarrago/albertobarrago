@@ -31,14 +31,7 @@ Passionate Full-Stack Developer with 10+ years of experience in designing and de
 - **Security-Oriented**: Focused on integrating robust security practices and authentication methods
 - **Continuous Learner**: Enthusiastic about learning new technologies and improving skill sets
 - **Performance Optimization**: Experience in optimizing Node.js applications and frontend bundles
-- **Innovative Thinker**: Leverages creative solutions to streamline processes and drive efficiencies
-
-## 🌟 Notable Projects
-
-- **Node.js Microservices Architecture**: Designed and implemented scalable microservices using Node.js and Docker
-- **Real-time Applications**: Built real-time applications using WebSocket and Socket.io
-- **API Gateway Solutions**: Developed custom API gateway solutions using Express and Node.js
-- **Performance Monitoring**: Implemented monitoring solutions using Node.js performance hooks and metrics
+- **Innovative Thinker**: Leverages creative solutions to streamline processes and drive 
 
 ---
 
