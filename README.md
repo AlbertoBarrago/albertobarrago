@@ -1,6 +1,6 @@
 # 🧌 alBz
 
-Passionate Full-Stack Developer with 10+ years of experience in designing and delivering scalable web applications. Expertise in JavaScript, Node.js, Python, and cloud technologies (Azure, AWS). Proven track record in leading cross-functional teams, optimizing CI/CD pipelines, and mentoring junior developers. Passionate about lean solutions and continuous learning.
+Passionate Full-Stack Developer with 10+ years of experience in designing and delivering scalable web applications. Expertise in JavaScript, Node.js, Python, and cloud technologies. Proven track record in leading cross-functional teams, optimizing CI/CD pipelines, and mentoring junior developers. Passionate about lean solutions and continuous learning.
 
 ## 🛠️ Technical Expertise
 
