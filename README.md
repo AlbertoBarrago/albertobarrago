@@ -1,4 +1,4 @@
-# 🧌 alBz
+# 👋🏻 Nice to meet you! 
 
 🧠 Code whisperer with 10+ years of turning coffee into scalable web apps. Equal parts Full-Stack Developer and DevOps therapist. I speak fluent JavaScript, Node.js, and Python—with a mild cloud addiction (AWS, not weather).
 
