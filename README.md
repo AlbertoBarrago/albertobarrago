@@ -13,17 +13,7 @@ Passionate Full-Stack Developer with 10+ years of experience in designing and de
 | **Testing & QA**         | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white) | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Karma](https://img.shields.io/badge/-Karma-28A745?logo=karma&logoColor=white) |
 | **State Management**     | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)                    | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white) |
 | **Styling & UI**         | —                                                                                               | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white) |
-| **DevOps & Tools**       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
-
-## 💪 Strengths
-
-- **Full-Stack Expertise**: Proficient in both frontend and backend development with modern JavaScript/TypeScript ecosystems
-- **Problem Solver**: Adept at dissecting and resolving complex challenges
-- **Collaborative**: Excels in coordinating across diverse and cross-functional teams
-- **Security-Oriented**: Focused on integrating robust security practices and authentication methods
-- **Continuous Learner**: Enthusiastic about learning new technologies and improving skill sets
-- **Performance Optimization**: Experience in optimizing Node.js applications and frontend bundles
-- **Innovative Thinker**: Leverages creative solutions to streamline processes and drive 
+| **DevOps & Tools**       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) | 
 
 ---
 
