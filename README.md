@@ -1,6 +1,10 @@
 # 🧌 alBz
 
-Passionate Full-Stack Developer with 10+ years of experience in designing and delivering scalable web applications. Expertise in JavaScript, Node.js, Python, and cloud technologies. Proven track record in leading cross-functional teams, optimizing CI/CD pipelines, and mentoring junior developers. Passionate about lean solutions and continuous learning.
+🧠 Code whisperer with 10+ years of turning coffee into scalable web apps. Equal parts Full-Stack Developer and DevOps therapist. I speak fluent JavaScript, Node.js, and Python—with a mild cloud addiction (AWS, not weather).
+
+💡 I’ve led cross-functional teams without needing a megaphone, optimized CI/CD pipelines like a digital plumber, and mentored juniors without making them cry (most of the time). Passionate about clean code, lean solutions, and learning things I’ll probably over-engineer later.
+
+Let’s build cool stuff—and make it work on the first deploy (or at least by Friday).
 
 ## 🛠️ Technical Expertise
 
