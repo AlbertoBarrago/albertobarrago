@@ -1,10 +1,6 @@
 # 👋🏻 Nice to meet you! 
 
-🧠 Code whisperer with many years of turning coffee into scalable web apps. Equal parts Full-Stack Developer and DevOps therapist. I speak fluent JavaScript, Node.js, and Python—with a mild cloud addiction (100% Azure, no filter ☁️🔵).
-
-💡 I’ve led cross-functional teams without needing a megaphone, optimized CI/CD pipelines like a digital plumber, and mentored juniors without making them cry (most of the time). Passionate about clean code, lean solutions, and learning things I’ll probably over-engineer later.
-
-Let’s build cool stuff—and make it work on the first deploy (or at least by Friday).
+🧠 Code whisperer with many years of turning coffee into scalable web apps. Equal parts Full-Stack Developer and DevOps therapist.
 
 ## 🛠️ Technical Expertise
 
