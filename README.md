@@ -1,6 +1,6 @@
 # 👋🏻 Howdy!
 
-♥️ **Software Engineer**  
+**Software Engineer**  
 Years of experience turning ☕ into scalable web applications. I bridge the gap between frontend finesse and backend resilience, all while keeping CI/CD pipelines flowing in YAML. 
 Passionate about building elegant systems with a strong focus on maintainability, performance, and developer experience.
 
