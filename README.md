@@ -1,6 +1,9 @@
-# 👋🏻 Howdy!
+# 👋🏻 Ciao!
 
-Years of experience turning ☕ into scalable web applications. I bridge the gap between frontend finesse and backend resilience, all while keeping CI/CD pipelines flowing in YAML. 
-Passionate about building elegant systems with a strong focus on maintainability, performance, and developer experience.
+*I build for the love of the craft*, not for political correctness.
 
-> 🤖 Currently diving deeper into the world of **AI**, exploring practical applications of LLMs, generative models, and intelligent automation to enhance developer workflows and user experiences.
+____
+
+Driven by a mix of logic and intuition, I draw inspiration from the structure of myth, the precision of quantum physics, the language of poetry, and the patterns in the work of Bandler and Grinder. My goal is to build as a human, for other humans.
+
+> I publish what I love, and I'm always open to genuine collaboration.
