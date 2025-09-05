@@ -1,5 +1,5 @@
 # 🥷🏻 Alberto Barrago (alBz) 
-## FullStack DevLover | AI Explorer | Human-Centered Technologist
+## Software Engineer | AI Explorer | Human-Centered Technologist
 
 > *"I build for the love of the craft"*
 
