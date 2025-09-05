@@ -1,9 +1,63 @@
-# 👋🏻 Ciao!
+# 🥷🏻 Alberto Barrago (alBz) 
+## FullStack DevLover | AI Explorer | Human-Centered Technologist
 
-*I build for the love of the craft*.
+> *"I build for the love of the craft"*
 
-____
+Seasoned software engineer blending analytical thinking with intuitive insight. I draw inspiration from mythology, quantum physics, poetry, and Bandler & Grinder's NLP work to create technology that truly serves humanity—built by a human, for humans.
 
-Driven by a mix of logic and intuition, I draw inspiration from myth, quantum physics, poetry and the PNL in the work of Bandler and Grinder. My goal is to build as a human, for other humans.
+## 🚀 What I Build
 
-> I publish what I love, and I'm always open to genuine collaboration.
+**Core Stack:**
+- **Frontend**: React, Vue, JavaScript/TypeScript
+- **Backend**: Node.js, Python, API Design
+- **AI & ML**: Custom agents, learning systems, intelligent tools
+- **DevOps**: Cloud solutions, optimization, automation
+- **Tools**: VS Code extensions, developer experience
+
+## 🌟 Featured Projects
+
+### 🔮 [Git Oracle](https://github.com/AlbertoBarrago/git-oracle)
+*VS Code extension that transforms mundane Git operations into a mystical journey*
+- Combines practical developer tools with archetypal wisdom
+- Perfect example of how mythology can enhance user experience
+
+### 🤖 [ApolloAgent](https://github.com/AlbertoBarrago/ApolloAgent) 
+*Custom AI agent for intelligent code assistance*
+- Implements advanced functions for developer productivity
+- Showcases AI integration with human-centered design
+
+### 📚 [AILearning](https://github.com/AlbertoBarrago/AILearning)
+*Fundamental AI concepts made accessible to everyone*
+- Educational resource bridging complex theory with practical understanding
+- Reflects my commitment to democratizing technology
+
+### ⚡ [List Comprehensions for JavaScript](https://github.com/AlbertoBarrago/babel-plugin-list-comprehensions)
+*Babel plugin bringing Python-style list comprehensions to JS*
+- Language evolution through thoughtful syntax design
+- Available on [npm](https://www.npmjs.com/~balby) with smart HTTP caching
+
+## 🧠 My Approach
+
+I believe the best technology emerges when we understand both the code AND the human. My work is informed by:
+
+- **Neurolinguistic Programming** - Understanding how language shapes reality
+- **Systems Thinking** - Seeing patterns and connections across domains  
+- **Mythology & Archetypes** - Timeless wisdom for modern interfaces
+- **Quantum Physics** - Embracing uncertainty and possibility
+- **Poetry** - Finding elegance in expression and structure
+
+This interdisciplinary lens helps me build systems that are not just functional, but intuitive, meaningful, and genuinely useful.
+
+## 📈 GitHub Stats
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoBarrago&show_icons=true&theme=radical)
+
+## 🤝 Let's Build Something Human
+
+I publish what I love and I'm always open to genuine collaboration. Whether you're working on AI that serves humanity, interfaces that feel magical, or systems that solve real problems—let's connect.
+
+**158 repositories** of experiments, tools, and ideas waiting to be explored.
+
+---
+
+*"Technology is best when it brings people together."* - Matt Mullenweg
