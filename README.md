@@ -31,11 +31,6 @@ Seasoned software engineer blending analytical thinking with intuitive insight. 
 - Educational resource bridging complex theory with practical understanding
 - Reflects my commitment to democratizing technology
 
-### ⚡ [List Comprehensions for JavaScript](https://github.com/AlbertoBarrago/babel-plugin-list-comprehensions)
-*Babel plugin bringing Python-style list comprehensions to JS*
-- Language evolution through thoughtful syntax design
-- Available on [npm](https://www.npmjs.com/~balby) with smart HTTP caching
-
 ## 🧠 My Approach
 
 I believe the best technology emerges when we understand both the code AND the human. My work is informed by:
