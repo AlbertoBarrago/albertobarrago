@@ -14,23 +14,6 @@ Seasoned software engineer blending analytical thinking with intuitive insight. 
 - **DevOps**: Cloud solutions, optimization, automation
 - **Tools**: VS Code extensions, developer experience
 
-## 🌟 Featured Projects
-
-### 🔮 [Git Oracle](https://github.com/AlbertoBarrago/git-oracle)
-*VS Code extension that transforms mundane Git operations into a mystical journey*
-- Combines practical developer tools with archetypal wisdom
-- Perfect example of how mythology can enhance user experience
-
-### 🤖 [ApolloAgent](https://github.com/AlbertoBarrago/ApolloAgent) 
-*Custom AI agent for intelligent code assistance*
-- Implements advanced functions for developer productivity
-- Showcases AI integration with human-centered design
-
-### 📚 [AILearning](https://github.com/AlbertoBarrago/AILearning)
-*Fundamental AI concepts made accessible to everyone*
-- Educational resource bridging complex theory with practical understanding
-- Reflects my commitment to democratizing technology
-
 ## 🧠 My Approach
 
 I believe the best technology emerges when we understand both the code AND the human. My work is informed by:
