@@ -8,7 +8,7 @@ Seasoned software engineer blending analytical thinking with intuitive insight. 
 ## 🚀 What I Build
 
 **Core Stack:**
-- **Frontend**: React, Vue, JavaScript/TypeScript
+- **Frontend**: React, Angular, JavaScript/TypeScript
 - **Backend**: Node.js, Python, API Design
 - **AI & ML**: Custom agents, learning systems, intelligent tools
 - **DevOps**: Cloud solutions, optimization, automation
