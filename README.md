@@ -3,7 +3,7 @@
 
 > *"I build for the love of the craft"*
 
-Seasoned software engineer blending analytical thinking with intuitive insight. I draw inspiration from mythology, quantum physics, poetry, and Bandler & Grinder's NLP work to create technology that truly serves humanity—built by a human, for humans.
+Seasoned software engineer blending analytical thinking with intuitive insight.
 
 ## 🚀 What I Build
 
