@@ -3,7 +3,7 @@
 
 > *"I build for the love of the craft"*
 
-Seasoned software engineer blending analytical thinking with intuitive insight.
+Software engineer blending analytical thinking with intuitive insight.
 
 ## 🚀 What I Build
 
