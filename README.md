@@ -1,5 +1,5 @@
 # 🥷🏻 Alberto Barrago (alBz) 
-## Software Engineer | AI Explorer | Human-Centered Technologist
+## Software Engineer
 
 > *"I build for the love of the craft"*
 
@@ -20,9 +20,7 @@ I believe the best technology emerges when we understand both the code AND the h
 
 - **Neurolinguistic Programming** - Understanding how language shapes reality
 - **Systems Thinking** - Seeing patterns and connections across domains  
-- **Mythology & Archetypes** - Timeless wisdom for modern interfaces
 - **Quantum Physics** - Embracing uncertainty and possibility
-- **Poetry** - Finding elegance in expression and structure
 
 This interdisciplinary lens helps me build systems that are not just functional, but intuitive, meaningful, and genuinely useful.
 
