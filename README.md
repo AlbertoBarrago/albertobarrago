@@ -8,7 +8,7 @@ Software engineer blending analytical thinking with intuitive insight.
 ## 🚀 What I Build
 
 **Core Stack:**
-- **Frontend**: JavaScript (Expert in Angular), TypeScript, HTML5, CSS3
+- **Frontend**: JavaScript/TS, TypeScript, React, Angular
 - **Backend**: Proficient in FastAPI, Spring Boot, Flask, Express, Fastify
 - **Database**: MongoDB, Oracle, MySQL
 - **DevOps**: Docker, GitHub Actions, Azure DevOps, CI/CD pipelines
