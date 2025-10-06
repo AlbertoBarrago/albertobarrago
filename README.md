@@ -16,16 +16,6 @@ Software engineer blending analytical thinking with intuitive insight.
 - **Tools**: Git, GitLab, React Native, Ionic, Kafka, Postman
 
 
-## 🧠 My Approach
-
-I believe the best technology emerges when we understand both the code AND the human. My work is informed by:
-
-- **Neurolinguistic Programming** - Understanding how language shapes reality
-- **Systems Thinking** - Seeing patterns and connections across domains  
-- **Quantum Physics** - Embracing uncertainty and possibility
-
-This interdisciplinary lens helps me build systems that are not just functional, but intuitive, meaningful, and genuinely useful.
-
 ## 📈 GitHub Stats
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoBarrago&show_icons=true&theme=radical)
