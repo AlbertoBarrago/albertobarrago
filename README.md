@@ -9,7 +9,7 @@ Software engineer blending analytical thinking with intuitive insight.
 
 **Core Stack:**
 - **Frontend**: JavaScript/TS, TypeScript, React, Angular
-- **Backend**: Proficient in FastAPI, Spring Boot, Flask, Express, Fastify
+- **Backend**: FastAPI, Spring Boot, Flask, Express, Fastify
 - **Database**: MongoDB, Oracle, MySQL
 - **DevOps**: Docker, GitHub Actions, Azure DevOps, CI/CD pipelines
 - **AI & ML**: AI integration, prompt engineering, LLM fine-tuning
