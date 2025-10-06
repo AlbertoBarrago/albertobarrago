@@ -8,11 +8,13 @@ Software engineer blending analytical thinking with intuitive insight.
 ## 🚀 What I Build
 
 **Core Stack:**
-- **Frontend**: React, Angular, Vanilla
-- **Backend**: Spring, Express, Flask, FastAPI
-- **AI & ML**: Custom agents, learning systems, intelligent tools
-- **DevOps**: Cloud solutions, optimization, automation
-- **Tools**: VS Code extensions, dx
+- **Frontend**: JavaScript (Expert in Angular), TypeScript, HTML5, CSS3
+- **Backend**: Proficient in FastAPI, Spring Boot, Flask, Express, Fastify
+- **Database**: MongoDB, Oracle, MySQL
+- **DevOps**: Docker, GitHub Actions, Azure DevOps, CI/CD pipelines
+- **AI & ML**: AI integration, prompt engineering, LLM fine-tuning
+- **Tools**: Git, GitLab, React Native, Ionic, Kafka, Postman
+
 
 ## 🧠 My Approach
 
