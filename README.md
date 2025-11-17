@@ -1,4 +1,4 @@
-# alBz
+# Hey, you =)
 
 Crazy dev with years of experience and a relentless drive to spread passion and love for IT.
 
