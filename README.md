@@ -1,6 +1,6 @@
 # alBz
 
-Crazy dev with years of experience and a relentless drive to spread passion and love for IT. I blend analytical thinking with intuitive insight, building software that matters.
+Crazy dev with years of experience and a relentless drive to spread passion and love for IT.
 
 **Core Stack:**
 - **Frontend**: JavaScript/TypeScript, React, Angular
