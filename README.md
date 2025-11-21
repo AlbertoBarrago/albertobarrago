@@ -1,6 +1,7 @@
 # Hi, I'm alBz
 
-Full-stack developer with years of experience and a genuine passion for building great software.
+Software engineer blending analytical thinking with intuitive insight. 
+Years of experience building across the stack, with a genuine passion for craft.
 
 **Core Stack:**
 - **Frontend**: JavaScript/TypeScript, React, Angular
