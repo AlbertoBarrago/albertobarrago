@@ -1,6 +1,6 @@
-# Hey, you =)
+# Hi, I'm alBz
 
-Crazy dev with years of experience and a relentless drive to spread passion and love for IT.
+Full-stack developer with years of experience and a genuine passion for building great software.
 
 **Core Stack:**
 - **Frontend**: JavaScript/TypeScript, React, Angular
@@ -16,9 +16,9 @@ Crazy dev with years of experience and a relentless drive to spread passion and 
 
 ## 🤝 Let's Build Something Human
 
-I publish what I love and I'm always open to genuine collaboration. Whether you're working on AI that serves humanity, interfaces that feel magical, or systems that solve real problems—let's connect.
+I'm always open to collaboration on projects that matter—whether it's AI applications, elegant interfaces, or systems that solve real problems.
 
-**158+ repositories** of experiments, tools, and ideas waiting to be explored.
+**150 repositories** of experiments, tools, and ideas.
 
 ---
 
