@@ -13,7 +13,7 @@ Years of experience building across the stack, with a genuine passion for craft.
 
 ## 🤝 Let's Collaborate
 
-I'm always open to collaboration on projects that matter—whether it's AI applications, elegant interfaces, or systems that solve real problems.
+I'm always open to collaboration on AI applications, elegant interfaces, or systems that solve real problems.
 
 ---
 
