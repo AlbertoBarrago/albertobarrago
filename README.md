@@ -1,4 +1,4 @@
-# Hi, I'm alBz
+# Hi, I'm alBz 🐦‍🔥
 
 Software engineer blending analytical thinking with intuitive insight. 
 Years of experience building across the stack, with a genuine passion for craft.
@@ -11,15 +11,9 @@ Years of experience building across the stack, with a genuine passion for craft.
 - **AI & ML**: AI integration, prompt engineering, LLM fine-tuning
 - **Tools**: Git, GitLab, React Native, Ionic, Kafka, Postman
 
-## 📈 GitHub Stats
-
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoBarrago&show_icons=true&theme=radical)
-
-## 🤝 Let's Build Something Human
+## 🤝 Let's Collaborate
 
 I'm always open to collaboration on projects that matter—whether it's AI applications, elegant interfaces, or systems that solve real problems.
-
-**150 repositories** of experiments, tools, and ideas.
 
 ---
 
