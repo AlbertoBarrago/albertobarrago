@@ -3,7 +3,6 @@
 Software engineer blending analytical thinking with intuitive insight. 
 Years of experience building across the stack, with a genuine passion for craft.
 
-Have a fun with Mario Murru: [Play](mario-murru-the-game.netlify.app/)
 
 ## 🤝 Let's Collaborate (Maybe)
 
