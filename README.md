@@ -1,7 +1,6 @@
 # Hi, I'm alBz
 
 Curiosity continues to guide me on this IT journey that began several decades ago. Attention to detail, the drive to challenge myself, and the desire to explore new branches emerging from new technologies and insights are all part of my DNA.
-Driven by an insatiable hunger, I'm currently delving into the depths of AI. The deeper I go, the less I understand—but then again, even they don't fully know how they work...
 
 
 ## 🤝 Let's Collaborate (Maybe)
