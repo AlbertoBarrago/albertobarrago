@@ -1,7 +1,5 @@
 # Hi, I'm alBz
 
-You can find my last work on [Codeberg](https://codeberg.org/alBz)
-
 Curiosity continues to guide me on this IT journey that began several decades ago. Attention to detail, the drive to challenge myself, and the desire to explore new branches emerging from new technologies and insights are all part of my DNA.
 
 [![Cal.com](https://img.shields.io/badge/Cal.com-Book_a_Meeting-white?style=flat&logo=cal.com&logoColor=black)](https://cal.com/alberto-barrago-1yq59g/secret)
