@@ -8,4 +8,4 @@ Curiosity continues to guide me on this IT journey that began several decades ag
 
 ---
 
-*"The art of programming is the art of organizing complexity."* — Edsger W. Dijkstra
+*"The art of programming is the art of organizing complexity."* Edsger W. Dijkstra
