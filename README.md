@@ -5,7 +5,6 @@ Senior Software Engineer with a product-builder mindset, turning ideas into scal
 Curiosity continues to guide me on this IT journey that began several decades ago. Attention to detail, the drive to challenge myself, and the desire to explore new branches emerging from new technologies and insights are all part of my DNA.
 
 [![Cal.com](https://img.shields.io/badge/Cal.com-Book_a_Meeting-white?style=flat&logo=cal.com&logoColor=black)](https://cal.com/alberto-barrago-1yq59g/secret)
-[![albz.it](https://img.shields.io/badge/albz.it-visit-9ece6a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://albz.it)
 
 ---
 
