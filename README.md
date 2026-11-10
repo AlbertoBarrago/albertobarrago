@@ -12,21 +12,21 @@
 
 ---
 
-### Selected work
+### `~/selected-work $ ls`
 
-**[Markasso](https://markasso.it)**<br>
+**[Markasso](https://markasso.it)** · `whiteboard`<br>
 An open-source collaborative whiteboard built for humans and AI agents.
 
-**[Serval](https://albz.it/serval)**<br>
+**[Serval](https://albz.it/serval)** · `cli`<br>
 A local-first CLI that answers one question: what will this change break?
 
-**[Telemaco](https://github.com/albertobarrago)**<br>
+**[Telemaco](https://github.com/albertobarrago)** · `cli`<br>
 A Rust-powered CLI for API testing and stress testing.
 
-**[Wir](https://albz.it/wir)**<br>
+**[Wir](https://albz.it/wir)** · `cli`<br>
 A lightweight C utility for inspecting ports and processes.
 
-**[Otelma](https://albz.it/otelma)**<br>
+**[Otelma](https://albz.it/otelma)** · `runtime`<br>
 A minimal local LLM runtime.
 
 ---
