@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/avatar.png" alt="Alberto Barrago" width="120" />
-
 ### Software Engineer · Indie Hacker · Open Source Builder
 
 *I build things because I can't help it.*
