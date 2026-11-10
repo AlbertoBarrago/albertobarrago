@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/matrix-banner.gif" alt="Software Engineer · Indie Hacker · Open Source Builder" width="100%" />
+## Software Engineer · Indie Hacker · Open Source Builder
 
 *I build things because I can't help it.*
 
@@ -12,20 +12,35 @@
 
 ### `~/selected-work $ ls`
 
-**[Markasso](https://markasso.it)** · `whiteboard`<br>
-An open-source collaborative whiteboard built for humans and AI agents.
-
-**[Serval](https://albz.it/serval)** · `cli`<br>
-A local-first CLI that answers one question: what will this change break?
-
-**[Telemaco](https://github.com/albertobarrago)** · `cli`<br>
-A Rust-powered CLI for API testing and stress testing.
-
-**[Wir](https://albz.it/wir)** · `cli`<br>
-A lightweight C utility for inspecting ports and processes.
-
-**[Otelma](https://albz.it/otelma)** · `runtime`<br>
-A minimal local LLM runtime.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://markasso.it">Markasso</a></strong> · <code>whiteboard</code>
+      <p>An open-source collaborative whiteboard built for humans and AI agents.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://albz.it/serval">Serval</a></strong> · <code>cli</code>
+      <p>A local-first CLI that answers one question: what will this change break?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/albertobarrago">Telemaco</a></strong> · <code>cli</code>
+      <p>A Rust-powered CLI for API testing and stress testing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://albz.it/wir">Wir</a></strong> · <code>cli</code>
+      <p>A lightweight C utility for inspecting ports and processes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://albz.it/otelma">Otelma</a></strong> · <code>runtime</code>
+      <p>A minimal local LLM runtime.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
