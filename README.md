@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/2327654?v=4" alt="Alberto Barrago" width="120" />
+<img src="./assets/avatar.png" alt="Alberto Barrago" width="120" />
 
 ### Software Engineer · Indie Hacker · Open Source Builder
 
@@ -37,6 +37,6 @@ A minimal local LLM runtime.
 
 **[albz.it](https://albz.it)**
 
-<img src="./assets/albz.png" alt="albz signature" width="500" />
+<img src="./assets/albz.png" alt="albz signature" width="100%" />
 
 </div>
