@@ -33,8 +33,6 @@ A minimal local LLM runtime.
 
 *Keep building. Keep learning.*
 
-**[albz.it](https://albz.it)**
-
 <img src="./assets/albz.png" alt="albz signature" width="100%" />
 
 </div>
