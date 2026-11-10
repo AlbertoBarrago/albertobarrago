@@ -1,6 +1,6 @@
 <div align="center">
 
-### Software Engineer · Indie Hacker · Open Source Builder
+<img src="./assets/matrix-banner.gif" alt="Software Engineer · Indie Hacker · Open Source Builder" width="100%" />
 
 *I build things because I can't help it.*
 
