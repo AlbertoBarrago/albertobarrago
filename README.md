@@ -38,7 +38,10 @@
       <strong><a href="https://albz.it/otelma">Otelma</a></strong> · <code>runtime</code>
       <p>A minimal local LLM runtime.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/AlbertoBarrago/iris">Iris</a></strong> · <code>macOS</code>
+      <p>A native email app for macOS.</p>
+    </td>
   </tr>
 </table>
 
