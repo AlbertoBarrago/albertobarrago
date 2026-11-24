@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/albertobarrago">Telemaco</a></strong> · <code>cli</code>
+      <strong><a href="https://albz.it/telemaco">Telemaco</a></strong> · <code>cli</code>
       <p>A Rust-powered CLI for API testing and stress testing.</p>
     </td>
     <td width="50%" valign="top">
