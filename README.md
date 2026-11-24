@@ -39,7 +39,7 @@
       <p>A minimal local LLM runtime.</p>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/AlbertoBarrago/iris">Iris</a></strong> · <code>macOS</code>
+      <strong><a href="https://albz.it/iris">Iris</a></strong> · <code>macOS</code>
       <p>A native email app for macOS.</p>
     </td>
   </tr>
